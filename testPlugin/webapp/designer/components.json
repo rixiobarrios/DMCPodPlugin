@@ -1,0 +1,15 @@
+{
+	"components": [
+		{
+			"id": "testPlugin",
+			"type": "VIEW_PLUGIN",
+			"allowMultipleInstances": true,
+			"name": "vendor.ext.podplugin.testPlugin.testPlugin",
+			"propertyEditor": "vendor.ext.podplugin.testPlugin.testPlugin.builder.PropertyEditor",
+			"i18n": "vendor.ext.podplugin.testPlugin.testPlugin.i18n.i18n",
+            "productionProcessEnabled": true,
+           "productionProcessTitle": "testPlugin",
+			"supportedPodTypes": ["WORK_CENTER","OPERATION","ORDER","OTHER","MONITOR"]
+		}   
+	]
+}
