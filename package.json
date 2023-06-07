@@ -1,5 +1,5 @@
 {
-  "name": "testPlugin",
+  "name": "dmcpodplugin",
   "version": "0.0.1",
   "devDependencies": {
     "@sap/approuter": "9.4.x"

@@ -1,0 +1,15 @@
+{
+	"components": [
+		{
+			"id": "dmcpodplugin",
+			"type": "VIEW_PLUGIN",
+			"allowMultipleInstances": true,
+			"name": "vendor.ext.podplugins.dmcpodplugin.dmcpodplugin",
+			"propertyEditor": "vendor.ext.podplugins.dmcpodplugin.dmcpodplugin.builder.PropertyEditor",
+			"i18n": "vendor.ext.podplugins.dmcpodplugin.dmcpodplugin.i18n.i18n",
+            "productionProcessEnabled": true,
+           "productionProcessTitle": "dmcpodplugin",
+			"supportedPodTypes": ["WORK_CENTER","OPERATION","ORDER","OTHER"]
+		}   
+	]
+}
